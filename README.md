@@ -1,7 +1,7 @@
 # TCoClust
 
-```TCoClust``` is a Python package implementing Trimmed Co-Clustering methods, including a method for cellwise trimmed 
-co-clustering (Cell-TRICC, to be published), a method for row and columnwise trimmed co-clustering (RoCo-TRICC, 
+```TCoClust``` is a Python package implementing robust Trimmed Co-Clustering methods, including a method for cellwise 
+trimmed co-clustering (Cell-TRICC, to be published), a method for row and columnwise trimmed co-clustering (RoCo-TRICC, 
 published in Fibbi, E., Perrotta, D., Torti, F., Van Aelst, S., Verdonck, T. "Co-clustering contaminated data: a robust 
 model-based approach." *Adv Data Anal Classif* 18, 121–161 (2024). https://doi.org/10.1007/s11634-023-00549-3),
 as well as additional tools (including model selection, plotting, and other utility functions).
