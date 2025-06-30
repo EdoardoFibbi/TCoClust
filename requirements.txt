@@ -1,0 +1,13 @@
+adjustText
+dash
+dash_daq
+ipykernel
+numpy
+matplotlib
+nbformat
+pandas
+plotly
+scipy
+seaborn
+scikit-learn
+tqdm
